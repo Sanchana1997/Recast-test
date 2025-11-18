@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'Recast-testing'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E5EFE5420FA747009542F10E59210865 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_04BD9447EAAD4BBABDFC81A028163AB1 }}
